@@ -3,7 +3,7 @@
 
 This project aims to perform an annual sales analysis using Pandas and data science techniques. The goal is to gain insights into the sales trends, identify top-selling products, and analyze the performance of different sales channels.
 
-The project will involve the following tasks:
+In this project, we are doing the following tasks:
 
 1. Data Cleaning: Preprocess and clean the sales data to ensure accuracy and consistency.
 
